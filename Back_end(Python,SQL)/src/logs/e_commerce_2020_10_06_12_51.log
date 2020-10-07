@@ -1,0 +1,15 @@
+2020-10-06 12:51:03,933 - 36844 INFO - create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED
+2020-10-06 12:51:03,933 - 36844 INFO - create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED
+2020-10-06 12:51:03,933 - 36844 INFO - create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED
+2020-10-06 12:51:03,933 - 36844 INFO - create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED
+2020-10-06 12:51:03,933 - 36844 INFO - create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED

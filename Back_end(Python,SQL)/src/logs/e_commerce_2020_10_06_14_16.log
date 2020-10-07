@@ -1,0 +1,20 @@
+2020-10-06 14:16:18,990 - 15944 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.05s cart_details Table CREATED
+2020-10-06 14:16:18,990 - 15944 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.05s cart_details Table CREATED
+2020-10-06 14:16:18,990 - 15944 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.05s cart_details Table CREATED
+2020-10-06 14:16:18,990 - 15944 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.05s cart_details Table CREATED
+2020-10-06 14:16:18,990 - 15944 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.05s cart_details Table CREATED

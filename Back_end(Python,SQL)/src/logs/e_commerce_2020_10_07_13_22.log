@@ -1,0 +1,16 @@
+2020-10-07 13:22:21,105 [INFO] category_details Records Inserted
+2020-10-07 13:22:21,220 [INFO] customer_details Records Inserted
+2020-10-07 13:22:21,331 [INFO] order_status_details Records Inserted
+2020-10-07 13:22:21,404 [INFO] seller_details Records Inserted
+2020-10-07 13:22:21,516 [INFO] cart_details Records Inserted
+2020-10-07 13:22:21,615 [INFO] customer_address_details Records Inserted
+2020-10-07 13:22:21,875 [INFO] order_details Records Inserted
+2020-10-07 13:22:22,045 [INFO] product_stock_details Records Inserted
+2020-10-07 13:22:22,170 [INFO] product_details Records Inserted
+2020-10-07 13:22:22,276 [INFO] cart_product_details Records Inserted
+2020-10-07 13:22:22,386 [INFO] category_product_details Records Inserted
+2020-10-07 13:22:22,494 [INFO] customer_rating_details Records Inserted
+2020-10-07 13:22:22,614 [INFO] invoice_details Records Inserted
+2020-10-07 13:22:22,687 [INFO] payment_details Records Inserted
+2020-10-07 13:22:22,982 [INFO] product_ordered_details Records Inserted
+2020-10-07 13:22:23,136 [INFO] shipping_status Records Inserted

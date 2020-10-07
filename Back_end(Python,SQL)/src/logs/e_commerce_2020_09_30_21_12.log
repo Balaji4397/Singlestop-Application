@@ -1,0 +1,6 @@
+2020-09-30 21:12:07,543 - 3216 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test
+2020-09-30 21:12:07,543 - 3216 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test
+2020-09-30 21:12:07,543 - 3216 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test
+2020-09-30 21:12:50,236 - 23732 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test
+2020-09-30 21:12:50,236 - 23732 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test
+2020-09-30 21:12:50,236 - 23732 INFO - insert into test values (1),(2),(3)  0.0s new row has been inserted into test

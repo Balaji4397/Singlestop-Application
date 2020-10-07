@@ -1,0 +1,228 @@
+2020-09-29 21:46:43,796 - 20064 INFO - Table cart_details is ready to add in DB
+2020-09-29 21:46:43,796 - 20064 INFO - Table cart_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table cart_product_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table cart_product_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table category_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table category_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table category_product_details is ready to add in DB
+2020-09-29 21:46:43,797 - 20064 INFO - Table category_product_details is ready to add in DB
+2020-09-29 21:46:43,798 - 20064 INFO - Table customer_address_details is ready to add in DB
+2020-09-29 21:46:43,798 - 20064 INFO - Table customer_address_details is ready to add in DB
+2020-09-29 21:46:43,798 - 20064 INFO - Table customer_details is ready to add in DB
+2020-09-29 21:46:43,798 - 20064 INFO - Table customer_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table customer_rating_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table customer_rating_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table invoice_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table invoice_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table order_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table order_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table order_status_details is ready to add in DB
+2020-09-29 21:46:43,799 - 20064 INFO - Table order_status_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table payment_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table payment_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_ordered_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_ordered_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_stock_details is ready to add in DB
+2020-09-29 21:46:43,800 - 20064 INFO - Table product_stock_details is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_1_cart_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_1_cart_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_2_customer_address_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_2_customer_address_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_3_order_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_3_order_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_4_product_stock_details.sql is ready to add in DB
+2020-09-29 21:46:43,801 - 20064 INFO - Table ref_4_product_stock_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_5_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_5_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_6_cart_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_6_cart_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_7_category_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_7_category_product_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_8_customer_rating_details.sql is ready to add in DB
+2020-09-29 21:46:43,802 - 20064 INFO - Table ref_8_customer_rating_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_9_invoice_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_9_invoice_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_payment_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_payment_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_product_ordered_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_product_ordered_details.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_shipping_status.sql is ready to add in DB
+2020-09-29 21:46:43,803 - 20064 INFO - Table ref_shipping_status.sql is ready to add in DB
+2020-09-29 21:46:43,804 - 20064 INFO - Table seller_details is ready to add in DB
+2020-09-29 21:46:43,804 - 20064 INFO - Table seller_details is ready to add in DB
+2020-09-29 21:46:43,804 - 20064 INFO - Table shipping_status is ready to add in DB
+2020-09-29 21:46:43,804 - 20064 INFO - Table shipping_status is ready to add in DB
+2020-09-29 21:46:44,336 - 20064 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.46s ref_1_cart_details Table CREATED
+2020-09-29 21:46:44,336 - 20064 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.46s ref_1_cart_details Table CREATED
+2020-09-29 21:46:44,336 - 20064 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.46s ref_1_cart_details Table CREATED
+2020-09-29 21:46:44,336 - 20064 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.46s ref_1_cart_details Table CREATED
+2020-09-29 21:46:44,597 - 20064 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.26s ref_2_customer_address_details Table CREATED
+2020-09-29 21:46:44,597 - 20064 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.26s ref_2_customer_address_details Table CREATED
+2020-09-29 21:46:44,597 - 20064 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.26s ref_2_customer_address_details Table CREATED
+2020-09-29 21:46:44,597 - 20064 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.26s ref_2_customer_address_details Table CREATED
+2020-09-29 21:46:44,608 - 20064 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.01s ref_3_order_details Table CREATED
+2020-09-29 21:46:44,608 - 20064 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.01s ref_3_order_details Table CREATED
+2020-09-29 21:46:44,608 - 20064 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.01s ref_3_order_details Table CREATED
+2020-09-29 21:46:44,608 - 20064 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.01s ref_3_order_details Table CREATED
+2020-09-29 21:46:44,952 - 20064 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.34s ref_4_product_stock_details Table CREATED
+2020-09-29 21:46:44,952 - 20064 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.34s ref_4_product_stock_details Table CREATED
+2020-09-29 21:46:44,952 - 20064 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.34s ref_4_product_stock_details Table CREATED
+2020-09-29 21:46:44,952 - 20064 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.34s ref_4_product_stock_details Table CREATED
+2020-09-29 21:46:45,188 - 20064 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.24s ref_5_product_details Table CREATED
+2020-09-29 21:46:45,188 - 20064 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.24s ref_5_product_details Table CREATED
+2020-09-29 21:46:45,188 - 20064 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.24s ref_5_product_details Table CREATED
+2020-09-29 21:46:45,188 - 20064 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.24s ref_5_product_details Table CREATED
+2020-09-29 21:46:45,557 - 20064 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.37s ref_6_cart_product_details Table CREATED
+2020-09-29 21:46:45,557 - 20064 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.37s ref_6_cart_product_details Table CREATED
+2020-09-29 21:46:45,557 - 20064 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.37s ref_6_cart_product_details Table CREATED
+2020-09-29 21:46:45,557 - 20064 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.37s ref_6_cart_product_details Table CREATED
+2020-09-29 21:46:45,851 - 20064 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.29s ref_7_category_product_details Table CREATED
+2020-09-29 21:46:45,851 - 20064 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.29s ref_7_category_product_details Table CREATED
+2020-09-29 21:46:45,851 - 20064 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.29s ref_7_category_product_details Table CREATED
+2020-09-29 21:46:45,851 - 20064 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.29s ref_7_category_product_details Table CREATED
+2020-09-29 21:46:46,142 - 20064 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.29s ref_8_customer_rating_details Table CREATED
+2020-09-29 21:46:46,142 - 20064 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.29s ref_8_customer_rating_details Table CREATED
+2020-09-29 21:46:46,142 - 20064 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.29s ref_8_customer_rating_details Table CREATED
+2020-09-29 21:46:46,142 - 20064 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.29s ref_8_customer_rating_details Table CREATED
+2020-09-29 21:46:46,369 - 20064 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.23s ref_9_invoice_details Table CREATED
+2020-09-29 21:46:46,369 - 20064 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.23s ref_9_invoice_details Table CREATED
+2020-09-29 21:46:46,369 - 20064 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.23s ref_9_invoice_details Table CREATED
+2020-09-29 21:46:46,369 - 20064 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.23s ref_9_invoice_details Table CREATED
+2020-09-29 21:46:46,902 - 20064 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.53s ref_payment_details Table CREATED
+2020-09-29 21:46:46,902 - 20064 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.53s ref_payment_details Table CREATED
+2020-09-29 21:46:46,902 - 20064 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.53s ref_payment_details Table CREATED
+2020-09-29 21:46:46,902 - 20064 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.53s ref_payment_details Table CREATED
+2020-09-29 21:46:47,130 - 20064 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.23s ref_product_ordered_details Table CREATED
+2020-09-29 21:46:47,130 - 20064 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.23s ref_product_ordered_details Table CREATED
+2020-09-29 21:46:47,130 - 20064 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.23s ref_product_ordered_details Table CREATED
+2020-09-29 21:46:47,130 - 20064 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.23s ref_product_ordered_details Table CREATED
+2020-09-29 21:46:47,351 - 20064 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.22s ref_shipping_status Table CREATED
+2020-09-29 21:46:47,351 - 20064 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.22s ref_shipping_status Table CREATED
+2020-09-29 21:46:47,351 - 20064 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.22s ref_shipping_status Table CREATED
+2020-09-29 21:46:47,351 - 20064 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.22s ref_shipping_status Table CREATED

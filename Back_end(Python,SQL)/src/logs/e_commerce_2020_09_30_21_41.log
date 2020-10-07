@@ -1,0 +1,3 @@
+2020-09-30 21:41:43,416 - 11228 INFO - insert into test(e_n) values(10),(11),(12) 0.0s new row has been inserted into test
+2020-09-30 21:41:43,416 - 11228 INFO - insert into test(e_n) values(10),(11),(12) 0.0s new row has been inserted into test
+2020-09-30 21:41:43,416 - 11228 INFO - insert into test(e_n) values(10),(11),(12) 0.0s new row has been inserted into test

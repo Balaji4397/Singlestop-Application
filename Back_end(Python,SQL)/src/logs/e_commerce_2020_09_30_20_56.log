@@ -1,0 +1,6 @@
+2020-09-30 20:56:00,144 - 8816 INFO - alter table test e_date datetime 0.0s e_date has been added to test
+2020-09-30 20:56:00,144 - 8816 INFO - alter table test e_date datetime 0.0s e_date has been added to test
+2020-09-30 20:56:00,144 - 8816 INFO - alter table test e_date datetime 0.0s e_date has been added to test
+2020-09-30 20:56:53,917 - 27868 INFO - alter table test add e_date datetime 0.14s e_date has been added to test
+2020-09-30 20:56:53,917 - 27868 INFO - alter table test add e_date datetime 0.14s e_date has been added to test
+2020-09-30 20:56:53,917 - 27868 INFO - alter table test add e_date datetime 0.14s e_date has been added to test

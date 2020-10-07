@@ -1,0 +1,28 @@
+2020-10-06 14:32:25,059 - 3024 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.07s seller_details Table CREATED
+2020-10-06 14:32:25,059 - 3024 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.07s seller_details Table CREATED
+2020-10-06 14:32:25,059 - 3024 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.07s seller_details Table CREATED
+2020-10-06 14:32:25,059 - 3024 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.07s seller_details Table CREATED
+2020-10-06 14:32:25,059 - 3024 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.07s seller_details Table CREATED
+2020-10-06 14:32:42,224 - 36956 INFO - seller Records Inserted
+2020-10-06 14:32:42,224 - 36956 INFO - seller Records Inserted
+2020-10-06 14:32:42,224 - 36956 INFO - seller Records Inserted

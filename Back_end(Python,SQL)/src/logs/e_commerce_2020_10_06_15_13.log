@@ -1,0 +1,9 @@
+2020-10-06 15:13:31,471 - 23832 INFO - sample table not present in DB
+2020-10-06 15:13:31,471 - 23832 INFO - sample table not present in DB
+2020-10-06 15:13:31,471 - 23832 INFO - sample table not present in DB
+2020-10-06 15:13:50,775 - 25876 INFO - test table present in DB
+2020-10-06 15:13:50,775 - 25876 INFO - test table present in DB
+2020-10-06 15:13:50,775 - 25876 INFO - test table present in DB
+2020-10-06 15:13:59,238 - 25876 INFO - alter table test drop e_dob  18.92s e_dob has been droped from test
+2020-10-06 15:13:59,238 - 25876 INFO - alter table test drop e_dob  18.92s e_dob has been droped from test
+2020-10-06 15:13:59,238 - 25876 INFO - alter table test drop e_dob  18.92s e_dob has been droped from test

@@ -1,0 +1,516 @@
+2020-09-30 13:37:42,186 - 27664 INFO - Table cart_details is ready to add in DB
+2020-09-30 13:37:42,186 - 27664 INFO - Table cart_details is ready to add in DB
+2020-09-30 13:37:42,186 - 27664 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 13:37:42,186 - 27664 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 13:37:42,186 - 27664 INFO - Table category_details is ready to add in DB
+2020-09-30 13:37:42,186 - 27664 INFO - Table category_details is ready to add in DB
+2020-09-30 13:37:42,187 - 27664 INFO - Table category_product_details is ready to add in DB
+2020-09-30 13:37:42,187 - 27664 INFO - Table category_product_details is ready to add in DB
+2020-09-30 13:37:42,188 - 27664 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 13:37:42,188 - 27664 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 13:37:42,188 - 27664 INFO - Table customer_details is ready to add in DB
+2020-09-30 13:37:42,188 - 27664 INFO - Table customer_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table invoice_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table invoice_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table order_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table order_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table order_status_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table order_status_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table payment_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table payment_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 13:37:42,189 - 27664 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_1_cart_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_1_cart_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_2_customer_address_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_2_customer_address_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_3_order_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_3_order_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_4_product_stock_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_4_product_stock_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_5_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_5_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_6_cart_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_6_cart_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_7_category_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_7_category_product_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_8_customer_rating_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_8_customer_rating_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_9_invoice_details.sql is ready to add in DB
+2020-09-30 13:37:42,190 - 27664 INFO - Table ref_9_invoice_details.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_payment_details.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_payment_details.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_product_ordered_details.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_product_ordered_details.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_shipping_status.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table ref_shipping_status.sql is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table seller_details is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table seller_details is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table shipping_status is ready to add in DB
+2020-09-30 13:37:42,191 - 27664 INFO - Table shipping_status is ready to add in DB
+2020-09-30 13:37:42,406 - 27664 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.18s ref_1_cart_details Table CREATED
+2020-09-30 13:37:42,406 - 27664 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.18s ref_1_cart_details Table CREATED
+2020-09-30 13:37:42,406 - 27664 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.18s ref_1_cart_details Table CREATED
+2020-09-30 13:37:42,406 - 27664 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_1_cart_details.sql 0.18s ref_1_cart_details Table CREATED
+2020-09-30 13:37:42,489 - 27664 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.08s ref_2_customer_address_details Table CREATED
+2020-09-30 13:37:42,489 - 27664 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.08s ref_2_customer_address_details Table CREATED
+2020-09-30 13:37:42,489 - 27664 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.08s ref_2_customer_address_details Table CREATED
+2020-09-30 13:37:42,489 - 27664 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_2_customer_address_details.sql 0.08s ref_2_customer_address_details Table CREATED
+2020-09-30 13:37:42,493 - 27664 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.0s ref_3_order_details Table CREATED
+2020-09-30 13:37:42,493 - 27664 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.0s ref_3_order_details Table CREATED
+2020-09-30 13:37:42,493 - 27664 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.0s ref_3_order_details Table CREATED
+2020-09-30 13:37:42,493 - 27664 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_3_order_details.sql 0.0s ref_3_order_details Table CREATED
+2020-09-30 13:37:42,571 - 27664 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.08s ref_4_product_stock_details Table CREATED
+2020-09-30 13:37:42,571 - 27664 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.08s ref_4_product_stock_details Table CREATED
+2020-09-30 13:37:42,571 - 27664 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.08s ref_4_product_stock_details Table CREATED
+2020-09-30 13:37:42,571 - 27664 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_4_product_stock_details.sql 0.08s ref_4_product_stock_details Table CREATED
+2020-09-30 13:37:42,701 - 27664 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.13s ref_5_product_details Table CREATED
+2020-09-30 13:37:42,701 - 27664 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.13s ref_5_product_details Table CREATED
+2020-09-30 13:37:42,701 - 27664 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.13s ref_5_product_details Table CREATED
+2020-09-30 13:37:42,701 - 27664 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_5_product_details.sql 0.13s ref_5_product_details Table CREATED
+2020-09-30 13:37:42,801 - 27664 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.1s ref_6_cart_product_details Table CREATED
+2020-09-30 13:37:42,801 - 27664 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.1s ref_6_cart_product_details Table CREATED
+2020-09-30 13:37:42,801 - 27664 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.1s ref_6_cart_product_details Table CREATED
+2020-09-30 13:37:42,801 - 27664 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_6_cart_product_details.sql 0.1s ref_6_cart_product_details Table CREATED
+2020-09-30 13:37:42,882 - 27664 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.08s ref_7_category_product_details Table CREATED
+2020-09-30 13:37:42,882 - 27664 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.08s ref_7_category_product_details Table CREATED
+2020-09-30 13:37:42,882 - 27664 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.08s ref_7_category_product_details Table CREATED
+2020-09-30 13:37:42,882 - 27664 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_7_category_product_details.sql 0.08s ref_7_category_product_details Table CREATED
+2020-09-30 13:37:43,124 - 27664 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.24s ref_8_customer_rating_details Table CREATED
+2020-09-30 13:37:43,124 - 27664 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.24s ref_8_customer_rating_details Table CREATED
+2020-09-30 13:37:43,124 - 27664 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.24s ref_8_customer_rating_details Table CREATED
+2020-09-30 13:37:43,124 - 27664 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_8_customer_rating_details.sql 0.24s ref_8_customer_rating_details Table CREATED
+2020-09-30 13:37:43,220 - 27664 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.09s ref_9_invoice_details Table CREATED
+2020-09-30 13:37:43,220 - 27664 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.09s ref_9_invoice_details Table CREATED
+2020-09-30 13:37:43,220 - 27664 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.09s ref_9_invoice_details Table CREATED
+2020-09-30 13:37:43,220 - 27664 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_9_invoice_details.sql 0.09s ref_9_invoice_details Table CREATED
+2020-09-30 13:37:43,311 - 27664 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.09s ref_payment_details Table CREATED
+2020-09-30 13:37:43,311 - 27664 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.09s ref_payment_details Table CREATED
+2020-09-30 13:37:43,311 - 27664 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.09s ref_payment_details Table CREATED
+2020-09-30 13:37:43,311 - 27664 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.09s ref_payment_details Table CREATED
+2020-09-30 13:37:43,396 - 27664 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.08s ref_product_ordered_details Table CREATED
+2020-09-30 13:37:43,396 - 27664 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.08s ref_product_ordered_details Table CREATED
+2020-09-30 13:37:43,396 - 27664 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.08s ref_product_ordered_details Table CREATED
+2020-09-30 13:37:43,396 - 27664 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.08s ref_product_ordered_details Table CREATED
+2020-09-30 13:37:43,475 - 27664 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.08s ref_shipping_status Table CREATED
+2020-09-30 13:37:43,475 - 27664 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.08s ref_shipping_status Table CREATED
+2020-09-30 13:37:43,475 - 27664 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.08s ref_shipping_status Table CREATED
+2020-09-30 13:37:43,475 - 27664 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.08s ref_shipping_status Table CREATED
+2020-09-30 13:37:49,817 - 29180 INFO - category_details Records Inserted
+2020-09-30 13:37:49,817 - 29180 INFO - category_details Records Inserted
+2020-09-30 13:37:49,817 - 29180 INFO - category_details Records Inserted
+2020-09-30 13:37:49,892 - 29180 INFO - customer_details Records Inserted
+2020-09-30 13:37:49,892 - 29180 INFO - customer_details Records Inserted
+2020-09-30 13:37:49,892 - 29180 INFO - customer_details Records Inserted
+2020-09-30 13:37:49,892 - 29180 INFO - customer_details Records Inserted
+2020-09-30 13:37:49,892 - 29180 INFO - customer_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:49,959 - 29180 INFO - order_status_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,027 - 29180 INFO - seller_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,077 - 29180 INFO - cart_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,119 - 29180 INFO - customer_address_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,170 - 29180 INFO - order_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,220 - 29180 INFO - product_stock_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,270 - 29180 INFO - product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,339 - 29180 INFO - cart_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,419 - 29180 INFO - category_product_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,465 - 29180 INFO - customer_rating_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,512 - 29180 INFO - invoice_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,556 - 29180 INFO - payment_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,602 - 29180 INFO - product_ordered_details Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted
+2020-09-30 13:37:50,652 - 29180 INFO - shipping_status Records Inserted

@@ -1,0 +1,9 @@
+2020-10-06 14:11:31,645 - 21068 INFO - sample table present in DB
+2020-10-06 14:11:31,645 - 21068 INFO - sample table present in DB
+2020-10-06 14:11:31,645 - 21068 INFO - sample table present in DB
+2020-10-06 14:11:40,930 - 21068 INFO - alter table sample drop e_dob  21.26s e_dob has been droped from sample
+2020-10-06 14:11:40,930 - 21068 INFO - alter table sample drop e_dob  21.26s e_dob has been droped from sample
+2020-10-06 14:11:40,930 - 21068 INFO - alter table sample drop e_dob  21.26s e_dob has been droped from sample
+2020-10-06 14:11:54,063 - 30692 INFO - sample Records Inserted
+2020-10-06 14:11:54,063 - 30692 INFO - sample Records Inserted
+2020-10-06 14:11:54,063 - 30692 INFO - sample Records Inserted

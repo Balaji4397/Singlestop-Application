@@ -1,0 +1,6 @@
+2020-10-06 14:10:04,379 - 28364 INFO - sample table present in DB
+2020-10-06 14:10:04,379 - 28364 INFO - sample table present in DB
+2020-10-06 14:10:04,379 - 28364 INFO - sample table present in DB
+2020-10-06 14:10:26,596 - 28364 INFO - alter table sample add e_dob datetime 36.21s e_dob has been added to sample
+2020-10-06 14:10:26,596 - 28364 INFO - alter table sample add e_dob datetime 36.21s e_dob has been added to sample
+2020-10-06 14:10:26,596 - 28364 INFO - alter table sample add e_dob datetime 36.21s e_dob has been added to sample

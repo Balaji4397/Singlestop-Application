@@ -1,0 +1,880 @@
+2020-09-30 16:45:49,921 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.07s cart_details Table CREATED
+2020-09-30 16:45:49,921 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.07s cart_details Table CREATED
+2020-09-30 16:45:49,921 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.07s cart_details Table CREATED
+2020-09-30 16:45:49,921 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.07s cart_details Table CREATED
+2020-09-30 16:45:49,922 - 19740 INFO - Table cart_details is ready to add in DB
+2020-09-30 16:45:49,922 - 19740 INFO - Table cart_details is ready to add in DB
+2020-09-30 16:45:49,922 - 19740 INFO - Table cart_details is ready to add in DB
+2020-09-30 16:45:49,922 - 19740 INFO - Table cart_details is ready to add in DB
+2020-09-30 16:45:49,978 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.06s cart_product_details Table CREATED
+2020-09-30 16:45:49,978 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.06s cart_product_details Table CREATED
+2020-09-30 16:45:49,978 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.06s cart_product_details Table CREATED
+2020-09-30 16:45:49,978 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.06s cart_product_details Table CREATED
+2020-09-30 16:45:49,978 - 19740 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 16:45:49,978 - 19740 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 16:45:49,978 - 19740 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 16:45:49,978 - 19740 INFO - Table cart_product_details is ready to add in DB
+2020-09-30 16:45:50,063 - 19740 INFO - CREATE TABLE if not exists CATEGORY_DETAILS(
+category_id	INT PRIMARY KEY NOT NULL,
+category_name VARCHAR(20) NOT NULL) category_details.sql 0.08s category_details Table CREATED
+2020-09-30 16:45:50,063 - 19740 INFO - CREATE TABLE if not exists CATEGORY_DETAILS(
+category_id	INT PRIMARY KEY NOT NULL,
+category_name VARCHAR(20) NOT NULL) category_details.sql 0.08s category_details Table CREATED
+2020-09-30 16:45:50,063 - 19740 INFO - CREATE TABLE if not exists CATEGORY_DETAILS(
+category_id	INT PRIMARY KEY NOT NULL,
+category_name VARCHAR(20) NOT NULL) category_details.sql 0.08s category_details Table CREATED
+2020-09-30 16:45:50,063 - 19740 INFO - CREATE TABLE if not exists CATEGORY_DETAILS(
+category_id	INT PRIMARY KEY NOT NULL,
+category_name VARCHAR(20) NOT NULL) category_details.sql 0.08s category_details Table CREATED
+2020-09-30 16:45:50,064 - 19740 INFO - Table category_details is ready to add in DB
+2020-09-30 16:45:50,064 - 19740 INFO - Table category_details is ready to add in DB
+2020-09-30 16:45:50,064 - 19740 INFO - Table category_details is ready to add in DB
+2020-09-30 16:45:50,064 - 19740 INFO - Table category_details is ready to add in DB
+2020-09-30 16:45:50,123 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.06s category_product_details Table CREATED
+2020-09-30 16:45:50,123 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.06s category_product_details Table CREATED
+2020-09-30 16:45:50,123 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.06s category_product_details Table CREATED
+2020-09-30 16:45:50,123 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.06s category_product_details Table CREATED
+2020-09-30 16:45:50,123 - 19740 INFO - Table category_product_details is ready to add in DB
+2020-09-30 16:45:50,123 - 19740 INFO - Table category_product_details is ready to add in DB
+2020-09-30 16:45:50,123 - 19740 INFO - Table category_product_details is ready to add in DB
+2020-09-30 16:45:50,123 - 19740 INFO - Table category_product_details is ready to add in DB
+2020-09-30 16:45:50,174 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.05s customer_address_details Table CREATED
+2020-09-30 16:45:50,174 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.05s customer_address_details Table CREATED
+2020-09-30 16:45:50,174 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.05s customer_address_details Table CREATED
+2020-09-30 16:45:50,174 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.05s customer_address_details Table CREATED
+2020-09-30 16:45:50,175 - 19740 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 16:45:50,175 - 19740 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 16:45:50,175 - 19740 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 16:45:50,175 - 19740 INFO - Table customer_address_details is ready to add in DB
+2020-09-30 16:45:50,230 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_DETAILS(
+customer_id int PRIMARY KEY NOT NULL ,
+customer_name varchar(15) NOT NULL,
+customer_ph_no bigint,
+customer_type varchar(10) DEFAULT 'GEN',
+customer_mail_id varchar(25) NOT NULL,
+customer_pass varchar(12) NOT NULL,
+customer_gen varchar(10)) customer_details.sql 0.05s customer_details Table CREATED
+2020-09-30 16:45:50,230 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_DETAILS(
+customer_id int PRIMARY KEY NOT NULL ,
+customer_name varchar(15) NOT NULL,
+customer_ph_no bigint,
+customer_type varchar(10) DEFAULT 'GEN',
+customer_mail_id varchar(25) NOT NULL,
+customer_pass varchar(12) NOT NULL,
+customer_gen varchar(10)) customer_details.sql 0.05s customer_details Table CREATED
+2020-09-30 16:45:50,230 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_DETAILS(
+customer_id int PRIMARY KEY NOT NULL ,
+customer_name varchar(15) NOT NULL,
+customer_ph_no bigint,
+customer_type varchar(10) DEFAULT 'GEN',
+customer_mail_id varchar(25) NOT NULL,
+customer_pass varchar(12) NOT NULL,
+customer_gen varchar(10)) customer_details.sql 0.05s customer_details Table CREATED
+2020-09-30 16:45:50,230 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_DETAILS(
+customer_id int PRIMARY KEY NOT NULL ,
+customer_name varchar(15) NOT NULL,
+customer_ph_no bigint,
+customer_type varchar(10) DEFAULT 'GEN',
+customer_mail_id varchar(25) NOT NULL,
+customer_pass varchar(12) NOT NULL,
+customer_gen varchar(10)) customer_details.sql 0.05s customer_details Table CREATED
+2020-09-30 16:45:50,231 - 19740 INFO - Table customer_details is ready to add in DB
+2020-09-30 16:45:50,231 - 19740 INFO - Table customer_details is ready to add in DB
+2020-09-30 16:45:50,231 - 19740 INFO - Table customer_details is ready to add in DB
+2020-09-30 16:45:50,231 - 19740 INFO - Table customer_details is ready to add in DB
+2020-09-30 16:45:50,284 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.05s customer_rating_details Table CREATED
+2020-09-30 16:45:50,284 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.05s customer_rating_details Table CREATED
+2020-09-30 16:45:50,284 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.05s customer_rating_details Table CREATED
+2020-09-30 16:45:50,284 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.05s customer_rating_details Table CREATED
+2020-09-30 16:45:50,284 - 19740 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 16:45:50,284 - 19740 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 16:45:50,284 - 19740 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 16:45:50,284 - 19740 INFO - Table customer_rating_details is ready to add in DB
+2020-09-30 16:45:50,610 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.33s invoice_details Table CREATED
+2020-09-30 16:45:50,610 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.33s invoice_details Table CREATED
+2020-09-30 16:45:50,610 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.33s invoice_details Table CREATED
+2020-09-30 16:45:50,610 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.33s invoice_details Table CREATED
+2020-09-30 16:45:50,611 - 19740 INFO - Table invoice_details is ready to add in DB
+2020-09-30 16:45:50,611 - 19740 INFO - Table invoice_details is ready to add in DB
+2020-09-30 16:45:50,611 - 19740 INFO - Table invoice_details is ready to add in DB
+2020-09-30 16:45:50,611 - 19740 INFO - Table invoice_details is ready to add in DB
+2020-09-30 16:45:50,727 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.12s order_details Table CREATED
+2020-09-30 16:45:50,727 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.12s order_details Table CREATED
+2020-09-30 16:45:50,727 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.12s order_details Table CREATED
+2020-09-30 16:45:50,727 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.12s order_details Table CREATED
+2020-09-30 16:45:50,728 - 19740 INFO - Table order_details is ready to add in DB
+2020-09-30 16:45:50,728 - 19740 INFO - Table order_details is ready to add in DB
+2020-09-30 16:45:50,728 - 19740 INFO - Table order_details is ready to add in DB
+2020-09-30 16:45:50,728 - 19740 INFO - Table order_details is ready to add in DB
+2020-09-30 16:45:50,796 - 19740 INFO - CREATE TABLE if not exists ORDER_STATUS_DETAILS(
+order_status_id INT PRIMARY KEY NOT NULL,
+order_status_desc varchar(35)) order_status_details.sql 0.07s order_status_details Table CREATED
+2020-09-30 16:45:50,796 - 19740 INFO - CREATE TABLE if not exists ORDER_STATUS_DETAILS(
+order_status_id INT PRIMARY KEY NOT NULL,
+order_status_desc varchar(35)) order_status_details.sql 0.07s order_status_details Table CREATED
+2020-09-30 16:45:50,796 - 19740 INFO - CREATE TABLE if not exists ORDER_STATUS_DETAILS(
+order_status_id INT PRIMARY KEY NOT NULL,
+order_status_desc varchar(35)) order_status_details.sql 0.07s order_status_details Table CREATED
+2020-09-30 16:45:50,796 - 19740 INFO - CREATE TABLE if not exists ORDER_STATUS_DETAILS(
+order_status_id INT PRIMARY KEY NOT NULL,
+order_status_desc varchar(35)) order_status_details.sql 0.07s order_status_details Table CREATED
+2020-09-30 16:45:50,797 - 19740 INFO - Table order_status_details is ready to add in DB
+2020-09-30 16:45:50,797 - 19740 INFO - Table order_status_details is ready to add in DB
+2020-09-30 16:45:50,797 - 19740 INFO - Table order_status_details is ready to add in DB
+2020-09-30 16:45:50,797 - 19740 INFO - Table order_status_details is ready to add in DB
+2020-09-30 16:45:50,862 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.06s payment_details Table CREATED
+2020-09-30 16:45:50,862 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.06s payment_details Table CREATED
+2020-09-30 16:45:50,862 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.06s payment_details Table CREATED
+2020-09-30 16:45:50,862 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.06s payment_details Table CREATED
+2020-09-30 16:45:50,862 - 19740 INFO - Table payment_details is ready to add in DB
+2020-09-30 16:45:50,862 - 19740 INFO - Table payment_details is ready to add in DB
+2020-09-30 16:45:50,862 - 19740 INFO - Table payment_details is ready to add in DB
+2020-09-30 16:45:50,862 - 19740 INFO - Table payment_details is ready to add in DB
+2020-09-30 16:45:50,919 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.06s product_details Table CREATED
+2020-09-30 16:45:50,919 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.06s product_details Table CREATED
+2020-09-30 16:45:50,919 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.06s product_details Table CREATED
+2020-09-30 16:45:50,919 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.06s product_details Table CREATED
+2020-09-30 16:45:50,920 - 19740 INFO - Table product_details is ready to add in DB
+2020-09-30 16:45:50,920 - 19740 INFO - Table product_details is ready to add in DB
+2020-09-30 16:45:50,920 - 19740 INFO - Table product_details is ready to add in DB
+2020-09-30 16:45:50,920 - 19740 INFO - Table product_details is ready to add in DB
+2020-09-30 16:45:50,983 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.06s product_ordered_details Table CREATED
+2020-09-30 16:45:50,983 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.06s product_ordered_details Table CREATED
+2020-09-30 16:45:50,983 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.06s product_ordered_details Table CREATED
+2020-09-30 16:45:50,983 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.06s product_ordered_details Table CREATED
+2020-09-30 16:45:50,983 - 19740 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 16:45:50,983 - 19740 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 16:45:50,983 - 19740 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 16:45:50,983 - 19740 INFO - Table product_ordered_details is ready to add in DB
+2020-09-30 16:45:51,045 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.06s product_stock_details Table CREATED
+2020-09-30 16:45:51,045 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.06s product_stock_details Table CREATED
+2020-09-30 16:45:51,045 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.06s product_stock_details Table CREATED
+2020-09-30 16:45:51,045 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.06s product_stock_details Table CREATED
+2020-09-30 16:45:51,046 - 19740 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 16:45:51,046 - 19740 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 16:45:51,046 - 19740 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 16:45:51,046 - 19740 INFO - Table product_stock_details is ready to add in DB
+2020-09-30 16:45:51,053 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.01s cart_details Table CREATED
+2020-09-30 16:45:51,053 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.01s cart_details Table CREATED
+2020-09-30 16:45:51,053 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.01s cart_details Table CREATED
+2020-09-30 16:45:51,053 - 19740 INFO - CREATE TABLE if not exists CART_DETAILS(
+cart_id	INT PRIMARY KEY NOT NULL,
+cart_added_date DATE,
+customer_id INT) cart_details.sql 0.01s cart_details Table CREATED
+2020-09-30 16:45:51,250 - 19740 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_cart_details.sql 0.2s ref_cart_details Table CREATED
+2020-09-30 16:45:51,250 - 19740 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_cart_details.sql 0.2s ref_cart_details Table CREATED
+2020-09-30 16:45:51,250 - 19740 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_cart_details.sql 0.2s ref_cart_details Table CREATED
+2020-09-30 16:45:51,250 - 19740 INFO - ALTER TABLE CART_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_cart_details.sql 0.2s ref_cart_details Table CREATED
+2020-09-30 16:45:51,259 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.01s cart_product_details Table CREATED
+2020-09-30 16:45:51,259 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.01s cart_product_details Table CREATED
+2020-09-30 16:45:51,259 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.01s cart_product_details Table CREATED
+2020-09-30 16:45:51,259 - 19740 INFO - CREATE TABLE if not exists CART_PRODUCT_DETAILS(
+cart_id	int,
+product_id	int,
+quantity int) cart_product_details.sql 0.01s cart_product_details Table CREATED
+2020-09-30 16:45:51,683 - 19740 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_cart_product_details.sql 0.42s ref_cart_product_details Table CREATED
+2020-09-30 16:45:51,683 - 19740 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_cart_product_details.sql 0.42s ref_cart_product_details Table CREATED
+2020-09-30 16:45:51,683 - 19740 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_cart_product_details.sql 0.42s ref_cart_product_details Table CREATED
+2020-09-30 16:45:51,683 - 19740 INFO - ALTER TABLE CART_PRODUCT_DETAILS
+ADD FOREIGN KEY(cart_id) REFERENCES CART_DETAILS (cart_id),
+ADD FOREIGN KEY(product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_cart_product_details.sql 0.42s ref_cart_product_details Table CREATED
+2020-09-30 16:45:51,689 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.01s category_product_details Table CREATED
+2020-09-30 16:45:51,689 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.01s category_product_details Table CREATED
+2020-09-30 16:45:51,689 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.01s category_product_details Table CREATED
+2020-09-30 16:45:51,689 - 19740 INFO - CREATE TABLE if not exists CATEGORY_PRODUCT_DETAILS(
+product_id	INT,
+category_id INT) category_product_details.sql 0.01s category_product_details Table CREATED
+2020-09-30 16:45:51,845 - 19740 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_category_product_details.sql 0.15s ref_category_product_details Table CREATED
+2020-09-30 16:45:51,845 - 19740 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_category_product_details.sql 0.15s ref_category_product_details Table CREATED
+2020-09-30 16:45:51,845 - 19740 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_category_product_details.sql 0.15s ref_category_product_details Table CREATED
+2020-09-30 16:45:51,845 - 19740 INFO - ALTER TABLE CATEGORY_PRODUCT_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (category_id) REFERENCES CATEGORY_DETAILS (category_id) ref_category_product_details.sql 0.15s ref_category_product_details Table CREATED
+2020-09-30 16:45:51,855 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.01s customer_address_details Table CREATED
+2020-09-30 16:45:51,855 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.01s customer_address_details Table CREATED
+2020-09-30 16:45:51,855 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.01s customer_address_details Table CREATED
+2020-09-30 16:45:51,855 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_ADDRESS_DETAILS(
+address_id int PRIMARY KEY NOT NULL,
+address_1 varchar(25),
+address_2 varchar(25),
+state varchar(20),
+country varchar(20),
+address_type varchar(15),
+pin_code bigint not null,
+customer_id int) customer_address_details.sql 0.01s customer_address_details Table CREATED
+2020-09-30 16:45:52,032 - 19740 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_customer_address_details.sql 0.18s ref_customer_address_details Table CREATED
+2020-09-30 16:45:52,032 - 19740 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_customer_address_details.sql 0.18s ref_customer_address_details Table CREATED
+2020-09-30 16:45:52,032 - 19740 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_customer_address_details.sql 0.18s ref_customer_address_details Table CREATED
+2020-09-30 16:45:52,032 - 19740 INFO - ALTER TABLE CUSTOMER_ADDRESS_DETAILS
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS(customer_id) ref_customer_address_details.sql 0.18s ref_customer_address_details Table CREATED
+2020-09-30 16:45:52,046 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.01s customer_rating_details Table CREATED
+2020-09-30 16:45:52,046 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.01s customer_rating_details Table CREATED
+2020-09-30 16:45:52,046 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.01s customer_rating_details Table CREATED
+2020-09-30 16:45:52,046 - 19740 INFO - CREATE TABLE if not exists CUSTOMER_RATING_DETAILS(
+rating_id INT PRIMARY KEY NOT NULL,
+rating_star DOUBLE,
+rating_desc VARCHAR(50),
+customer_id INT,
+product_id INT) customer_rating_details.sql 0.01s customer_rating_details Table CREATED
+2020-09-30 16:45:52,243 - 19740 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_customer_rating_details.sql 0.19s ref_customer_rating_details Table CREATED
+2020-09-30 16:45:52,243 - 19740 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_customer_rating_details.sql 0.19s ref_customer_rating_details Table CREATED
+2020-09-30 16:45:52,243 - 19740 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_customer_rating_details.sql 0.19s ref_customer_rating_details Table CREATED
+2020-09-30 16:45:52,243 - 19740 INFO - ALTER TABLE CUSTOMER_RATING_DETAILS
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_customer_rating_details.sql 0.19s ref_customer_rating_details Table CREATED
+2020-09-30 16:45:52,250 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.01s invoice_details Table CREATED
+2020-09-30 16:45:52,250 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.01s invoice_details Table CREATED
+2020-09-30 16:45:52,250 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.01s invoice_details Table CREATED
+2020-09-30 16:45:52,250 - 19740 INFO - CREATE TABLE if not exists INVOICE_DETAILS(
+invoice_num INT PRIMARY KEY ,
+invoice_date DATE,
+invoice_desc VARCHAR(30),
+order_id INT,
+product_id INT) invoice_details.sql 0.01s invoice_details Table CREATED
+2020-09-30 16:45:52,878 - 19740 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_invoice_details.sql 0.63s ref_invoice_details Table CREATED
+2020-09-30 16:45:52,878 - 19740 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_invoice_details.sql 0.63s ref_invoice_details Table CREATED
+2020-09-30 16:45:52,878 - 19740 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_invoice_details.sql 0.63s ref_invoice_details Table CREATED
+2020-09-30 16:45:52,878 - 19740 INFO - ALTER TABLE INVOICE_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_invoice_details.sql 0.63s ref_invoice_details Table CREATED
+2020-09-30 16:45:52,884 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.01s order_details Table CREATED
+2020-09-30 16:45:52,884 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.01s order_details Table CREATED
+2020-09-30 16:45:52,884 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.01s order_details Table CREATED
+2020-09-30 16:45:52,884 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int) order_details.sql 0.01s order_details Table CREATED
+2020-09-30 16:45:52,889 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_order_details.sql 0.0s ref_order_details Table CREATED
+2020-09-30 16:45:52,889 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_order_details.sql 0.0s ref_order_details Table CREATED
+2020-09-30 16:45:52,889 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_order_details.sql 0.0s ref_order_details Table CREATED
+2020-09-30 16:45:52,889 - 19740 INFO - CREATE TABLE if not exists ORDER_DETAILS(
+order_id INT PRIMARY KEY NOT NULL,
+order_date DATE,
+billing_name VARCHAR(10),
+delivery_name VARCHAR(10),
+billing_address_id int,
+delivery_address_id int,
+order_status_id	int,
+customer_id int,
+FOREIGN KEY (billing_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (delivery_address_id) REFERENCES CUSTOMER_ADDRESS_DETAILS (address_id),
+FOREIGN KEY (order_status_id) REFERENCES ORDER_STATUS_DETAILS (order_status_id),
+FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id)) ref_order_details.sql 0.0s ref_order_details Table CREATED
+2020-09-30 16:45:52,898 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.01s payment_details Table CREATED
+2020-09-30 16:45:52,898 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.01s payment_details Table CREATED
+2020-09-30 16:45:52,898 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.01s payment_details Table CREATED
+2020-09-30 16:45:52,898 - 19740 INFO - CREATE TABLE if not exists PAYMENT_DETAILS(
+payment_code INT PRIMARY KEY NOT NULL,
+payment_desc VARCHAR(35),
+order_id INT,
+product_id INT,
+customer_id INT) payment_details.sql 0.01s payment_details Table CREATED
+2020-09-30 16:45:53,137 - 19740 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.24s ref_payment_details Table CREATED
+2020-09-30 16:45:53,137 - 19740 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.24s ref_payment_details Table CREATED
+2020-09-30 16:45:53,137 - 19740 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.24s ref_payment_details Table CREATED
+2020-09-30 16:45:53,137 - 19740 INFO - ALTER TABLE PAYMENT_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id),
+ADD FOREIGN KEY (customer_id) REFERENCES CUSTOMER_DETAILS (customer_id) ref_payment_details.sql 0.24s ref_payment_details Table CREATED
+2020-09-30 16:45:53,147 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.01s product_details Table CREATED
+2020-09-30 16:45:53,147 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.01s product_details Table CREATED
+2020-09-30 16:45:53,147 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.01s product_details Table CREATED
+2020-09-30 16:45:53,147 - 19740 INFO - CREATE TABLE if not exists PRODUCT_DETAILS(
+product_id int primary key not null,
+product_name varchar(20),
+product_idealfor varchar(20),
+product_brand varchar(20),
+product_price bigint,
+product_desc varchar(20),
+product_stock_id int) product_details.sql 0.01s product_details Table CREATED
+2020-09-30 16:45:53,670 - 19740 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_product_details.sql 0.52s ref_product_details Table CREATED
+2020-09-30 16:45:53,670 - 19740 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_product_details.sql 0.52s ref_product_details Table CREATED
+2020-09-30 16:45:53,670 - 19740 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_product_details.sql 0.52s ref_product_details Table CREATED
+2020-09-30 16:45:53,670 - 19740 INFO - ALTER TABLE PRODUCT_DETAILS
+ADD FOREIGN KEY (product_stock_id) REFERENCES PRODUCT_STOCK_DETAILS (product_stock_id) ref_product_details.sql 0.52s ref_product_details Table CREATED
+2020-09-30 16:45:53,690 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.02s product_ordered_details Table CREATED
+2020-09-30 16:45:53,690 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.02s product_ordered_details Table CREATED
+2020-09-30 16:45:53,690 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.02s product_ordered_details Table CREATED
+2020-09-30 16:45:53,690 - 19740 INFO - CREATE TABLE if not exists PRODUCT_ORDERED_DETAILS(
+ordered_product_id INT PRIMARY KEY NOT NULL,
+ordered_quantity INT,
+ordered_date DATE,
+order_id INT,
+product_id INT) product_ordered_details.sql 0.02s product_ordered_details Table CREATED
+2020-09-30 16:45:54,253 - 19740 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.56s ref_product_ordered_details Table CREATED
+2020-09-30 16:45:54,253 - 19740 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.56s ref_product_ordered_details Table CREATED
+2020-09-30 16:45:54,253 - 19740 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.56s ref_product_ordered_details Table CREATED
+2020-09-30 16:45:54,253 - 19740 INFO - ALTER TABLE PRODUCT_ORDERED_DETAILS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (product_id) REFERENCES PRODUCT_DETAILS (product_id) ref_product_ordered_details.sql 0.56s ref_product_ordered_details Table CREATED
+2020-09-30 16:45:54,263 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.01s product_stock_details Table CREATED
+2020-09-30 16:45:54,263 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.01s product_stock_details Table CREATED
+2020-09-30 16:45:54,263 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.01s product_stock_details Table CREATED
+2020-09-30 16:45:54,263 - 19740 INFO - CREATE TABLE if not exists PRODUCT_STOCK_DETAILS(
+product_stock_id int primary key not null,
+stock_quantity int,
+seller_id int) product_stock_details.sql 0.01s product_stock_details Table CREATED
+2020-09-30 16:45:54,267 - 19740 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_product_stock_details.sql 0.0s ref_product_stock_details Table CREATED
+2020-09-30 16:45:54,267 - 19740 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_product_stock_details.sql 0.0s ref_product_stock_details Table CREATED
+2020-09-30 16:45:54,267 - 19740 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_product_stock_details.sql 0.0s ref_product_stock_details Table CREATED
+2020-09-30 16:45:54,267 - 19740 INFO - ALTER TABLE PRODUCT_STOCK_DETAILS
+ADD FOREIGN KEY (seller_id) references SELLER_DETAILS (seller_id) ref_product_stock_details.sql 0.0s ref_product_stock_details Table CREATED
+2020-09-30 16:45:54,378 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.11s shipping_status Table CREATED
+2020-09-30 16:45:54,378 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.11s shipping_status Table CREATED
+2020-09-30 16:45:54,378 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.11s shipping_status Table CREATED
+2020-09-30 16:45:54,378 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.11s shipping_status Table CREATED
+2020-09-30 16:45:54,573 - 19740 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.19s ref_shipping_status Table CREATED
+2020-09-30 16:45:54,573 - 19740 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.19s ref_shipping_status Table CREATED
+2020-09-30 16:45:54,573 - 19740 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.19s ref_shipping_status Table CREATED
+2020-09-30 16:45:54,573 - 19740 INFO - ALTER TABLE SHIPPING_STATUS
+ADD FOREIGN KEY (order_id) REFERENCES ORDER_DETAILS (order_id),
+ADD FOREIGN KEY (invoice_num) REFERENCES INVOICE_DETAILS (invoice_num) ref_shipping_status.sql 0.19s ref_shipping_status Table CREATED
+2020-09-30 16:45:54,656 - 19740 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.08s seller_details Table CREATED
+2020-09-30 16:45:54,656 - 19740 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.08s seller_details Table CREATED
+2020-09-30 16:45:54,656 - 19740 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.08s seller_details Table CREATED
+2020-09-30 16:45:54,656 - 19740 INFO - CREATE TABLE if not exists SELLER_DETAILS(
+seller_id INT PRIMARY KEY NOT NULL,
+seller_name VARCHAR(20),
+seller_address VARCHAR(25),
+seller_ratings INT) seller_details.sql 0.08s seller_details Table CREATED
+2020-09-30 16:45:54,657 - 19740 INFO - Table seller_details is ready to add in DB
+2020-09-30 16:45:54,657 - 19740 INFO - Table seller_details is ready to add in DB
+2020-09-30 16:45:54,657 - 19740 INFO - Table seller_details is ready to add in DB
+2020-09-30 16:45:54,657 - 19740 INFO - Table seller_details is ready to add in DB
+2020-09-30 16:45:54,664 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.01s shipping_status Table CREATED
+2020-09-30 16:45:54,664 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.01s shipping_status Table CREATED
+2020-09-30 16:45:54,664 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.01s shipping_status Table CREATED
+2020-09-30 16:45:54,664 - 19740 INFO - CREATE TABLE if not exists SHIPPING_STATUS(
+ship_id	INT PRIMARY KEY NOT NULL,
+ship_date DATE,
+ship_track_no BIGINT,
+order_id INT,
+invoice_num INT) shipping_status.sql 0.01s shipping_status Table CREATED
+2020-09-30 16:45:54,665 - 19740 INFO - Table shipping_status is ready to add in DB
+2020-09-30 16:45:54,665 - 19740 INFO - Table shipping_status is ready to add in DB
+2020-09-30 16:45:54,665 - 19740 INFO - Table shipping_status is ready to add in DB
+2020-09-30 16:45:54,665 - 19740 INFO - Table shipping_status is ready to add in DB

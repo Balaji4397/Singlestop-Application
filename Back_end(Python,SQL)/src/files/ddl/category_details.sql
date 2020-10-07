@@ -1,0 +1,4 @@
+CREATE TABLE if not exists CATEGORY_DETAILS(
+category_id	INT PRIMARY KEY NOT NULL,
+category_name VARCHAR(20) NOT NULL);
+

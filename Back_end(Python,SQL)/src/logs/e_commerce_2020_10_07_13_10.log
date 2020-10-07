@@ -1,0 +1,8 @@
+2020-10-07 13:10:21,215 [INFO] Test
+2020-10-07 13:10:21,223 [INFO] Hello
+2020-10-07 13:10:21,224 [INFO] create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED
+2020-10-07 13:10:51,473 [INFO] create table if not exists sample(
+e_num int,
+e_name varchar(5)) sample.sql 0.01s sample Table CREATED

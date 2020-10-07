@@ -1,0 +1,12 @@
+2020-10-06 15:12:31,427 - 34848 INFO - sample table present in DB
+2020-10-06 15:12:31,427 - 34848 INFO - sample table present in DB
+2020-10-06 15:12:31,427 - 34848 INFO - sample table present in DB
+2020-10-06 15:12:34,569 - 34848 INFO - alter table sample rename to test 20.16s sample Table, name has been changed to test
+2020-10-06 15:12:34,569 - 34848 INFO - alter table sample rename to test 20.16s sample Table, name has been changed to test
+2020-10-06 15:12:34,569 - 34848 INFO - alter table sample rename to test 20.16s sample Table, name has been changed to test
+2020-10-06 15:12:54,477 - 24540 INFO - test table present in DB
+2020-10-06 15:12:54,477 - 24540 INFO - test table present in DB
+2020-10-06 15:12:54,477 - 24540 INFO - test table present in DB
+2020-10-06 15:13:11,859 - 24540 INFO - alter table test add e_dob datetime 30.68s e_dob has been added to test
+2020-10-06 15:13:11,859 - 24540 INFO - alter table test add e_dob datetime 30.68s e_dob has been added to test
+2020-10-06 15:13:11,859 - 24540 INFO - alter table test add e_dob datetime 30.68s e_dob has been added to test

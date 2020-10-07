@@ -1,0 +1,12 @@
+2020-10-06 15:14:16,152 - 34664 INFO - test table present in DB
+2020-10-06 15:14:16,152 - 34664 INFO - test table present in DB
+2020-10-06 15:14:16,152 - 34664 INFO - test table present in DB
+2020-10-06 15:14:16,246 - 34664 INFO - truncate test 11.08s test Table truncated
+2020-10-06 15:14:16,246 - 34664 INFO - truncate test 11.08s test Table truncated
+2020-10-06 15:14:16,246 - 34664 INFO - truncate test 11.08s test Table truncated
+2020-10-06 15:14:27,389 - 6804 INFO - test table present in DB
+2020-10-06 15:14:27,389 - 6804 INFO - test table present in DB
+2020-10-06 15:14:27,389 - 6804 INFO - test table present in DB
+2020-10-06 15:14:27,515 - 6804 INFO - Drop table test 5.74s test Table DROPED
+2020-10-06 15:14:27,515 - 6804 INFO - Drop table test 5.74s test Table DROPED
+2020-10-06 15:14:27,515 - 6804 INFO - Drop table test 5.74s test Table DROPED
